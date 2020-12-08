@@ -4,9 +4,10 @@ Chatting Program on Ubuntu Linux &amp; QT Creator
 # How to running?
 
 // 1st
-set on terminal
-$ cd ChatProgram
-$ ./server
+
+ 1. set on terminal
+ 2. $ cd ChatProgram
+ 3. $ ./server
 
 new terminal
 
