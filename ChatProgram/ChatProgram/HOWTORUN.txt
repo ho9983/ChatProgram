@@ -1,0 +1,7 @@
+$ ./server
+
+//new terminal
+
+$ cd build-client-Desktop-Debug
+
+$ ./client
