@@ -9,7 +9,7 @@ Chatting Program on Ubuntu Linux &amp; QT Creator
 
  1. set on terminal
  2. $ cd ChatProgram
- 3. $ ./server
+ 3. $ ./server ()
  4. new terminal
  5. $ cd build-client-Destop-Debug
  6. $ qmake
